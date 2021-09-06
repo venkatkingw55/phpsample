@@ -1,3 +1,3 @@
 <?php
-echo "sample php website venkat ";
+echo "sample php website hi ";
 ?>
